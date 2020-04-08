@@ -8,7 +8,7 @@ var clickToggle = $('.fa-bars');
 var clickClose = $('.close');
 
 clickToggle.click(function(){
-    $('.hamburger-menu').fadeIn(1000);
+    $('.hamburger-menu').fadeIn(600);
   });
 
 clickClose.click(function(){
